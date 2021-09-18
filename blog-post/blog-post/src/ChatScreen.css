@@ -1,0 +1,16 @@
+.chatScreen{
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    background-color:azure;
+}
+.chatScreen__chats{
+    margin-top: 5px;
+    text-align: justify;
+    flex: .75;
+    border-left: 1px solid black;
+    padding: 25px;
+}
+.chatScreen__right{
+    flex: .25;
+}

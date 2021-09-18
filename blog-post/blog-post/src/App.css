@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+}
+.app__header{
+  height: 57px;
+}
+.app__chatScreen{
+  background-color: rgba(248, 213, 218, 0.575);
+  margin-top: 57px; 
+}
